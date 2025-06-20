@@ -16,6 +16,7 @@ A machine learning model using Logistic Regression and a Random Forest Classifie
    - After, the files can be opened on Jupyter Notebook or Google Colab to run and test the code
    
 📂 Files
+
 jitto_coding_challenge.ipynb: Main notebook with analysis and models
 
 unrest.csv: Dataset (auto-downloaded from URL in notebook)
@@ -23,6 +24,7 @@ unrest.csv: Dataset (auto-downloaded from URL in notebook)
 requirements.txt: Python dependencies
 
 💻 System Requirements
+
 Python 3.12
 
 Jupyter Notebook/Lab
@@ -42,6 +44,7 @@ Feature importance plots
 Calibration curves
 
 📝 License
+
 MIT
 
 ---
