@@ -14,7 +14,17 @@ A machine learning model using Logistic Regression and a Random Forest Classifie
    - You can download the ZIP file of this GitHub Repository by going to Code --> Download ZIP
 
    - After, the files can be opened on Jupyter Notebook or Google Colab to run and test the code
-   
+  
+## How to Run
+1. Open `jitto_coding_challenge.ipynb` in Colab/Jupyter  
+2. Run all cells sequentially  
+3. See "Results" section for key metrics  
+
+## Requirements
+```bash
+!pip freeze > requirements.txt  # Add this to the repo for reproducibility
+```
+
 📂 Files:
 
 jitto_coding_challenge.ipynb: Main notebook with analysis and models
