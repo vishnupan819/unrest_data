@@ -25,7 +25,7 @@ A machine learning model using Logistic Regression and a Random Forest Classifie
 !pip freeze > requirements.txt  # Add this to the repo for reproducibility
 ```
 
-📂 Files:
+## 📂 Files:
 
 jitto_coding_challenge.ipynb: Main notebook with analysis and models
 
@@ -33,7 +33,7 @@ unrest.csv: Dataset (auto-downloaded from URL in notebook)
 
 requirements.txt: Python dependencies
 
-💻 System Requirements:
+## 💻 System Requirements:
 
 Python 3.12
 
@@ -41,11 +41,11 @@ Jupyter Notebook/Lab or Google Colab
 
 4GB RAM or more (for SMOTE resampling)
 
-🔧 Troubleshooting:
+## 🔧 Troubleshooting:
 
 Missing Data? The notebook automatically downloads the dataset from this URL: https://raw.githubusercontent.com/vishnupan819/unrest_data/refs/heads/main/unrest.csv
 
-📊 Expected Outputs:
+## 📊 Expected Outputs:
 
 When you run all cells successfully, you'll see:
 
@@ -55,7 +55,7 @@ Feature importance plots
 
 Calibration curves
 
-📝 License:
+## 📝 License:
 
 MIT
 
