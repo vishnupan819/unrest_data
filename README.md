@@ -16,7 +16,7 @@ A machine learning model using Logistic Regression and a Random Forest Classifie
    - After, the files can be opened on Jupyter Notebook or Google Colab to run and test the code
   
 ## How to Run
-1. Open `jitto_coding_challenge.ipynb` in Colab/Jupyter  
+1. Open `societal_unrest_analysis.ipynb` in Colab/Jupyter  
 2. Run all cells sequentially  
 3. See "Results" section for key metrics  
 
@@ -27,7 +27,7 @@ A machine learning model using Logistic Regression and a Random Forest Classifie
 
 ## 📂 Files:
 
-jitto_coding_challenge.ipynb: Main notebook with analysis and models
+societal_unrest_analysis.ipynb: Main notebook with analysis and models
 
 unrest.csv: Dataset (auto-downloaded from URL in notebook)
 
@@ -71,7 +71,7 @@ MIT
 1. Copy this text into a new file named `README.md` in your repo
 2. Replace placeholders:
    - `vishnupan819/unrest_data`
-   - `jitto_coding_challenge.ipynb`
+   - `societal_unrest_analysis.ipynb`
 3. Commit and push to GitHub
 
 The badge will automatically work if your notebook is in the repo's root directory. For a more polished look, you can add screenshots of your results under an `## Example Outputs` section.
